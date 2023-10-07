@@ -26,7 +26,7 @@
   "tags": [
     {"userid": "5071878111", "tag": "RAYUWU💜", "color": "pink"},
     {"userid": "5083508263", "tag": "MYSTICWARE OWNER", "color": "purple"},
-    {"userid": "5100615950", "tag": "UWU💜", "color": "pink"},
+    {"userid": "5100615950", "tag": "VAPE PRIVATE", "color": "purple"},
     {"userid": "5065312181", "tag": "nn", "color": "purple"},
     {"userid": "1", "tag": "CoOwner", "color": "black"},
     {"userid": "18", "tag": "nn", "color": "yellow"},
