@@ -25,7 +25,7 @@
 ],
   "tags": [
     {"userid": "5071878111", "tag": "RAYUWU💜", "color": "pink"},
-    {"userid": "5083508263", "tag": "MYSTICWARE RED", "color": "purple"},
+    {"userid": "5083508263", "tag": "MYSTICWARE OWNER", "color": "purple"},
     {"userid": "1", "tag": "nn", "color": "purple"},
     {"userid": "1", "tag": "nn", "color": "purple"},
     {"userid": "1", "tag": "nn", "color": "purple"},
