@@ -28,7 +28,7 @@
     {"userid": "5083508263", "tag": "MYSTICWARE OWNER", "color": "purple"},
     {"userid": "5100615950", "tag": "UWU💜", "color": "pink"},
     {"userid": "5065312181", "tag": "nn", "color": "purple"},
-    {"userid": "1", "tag": "CoOwner", "color": "Black"},
+    {"userid": "1", "tag": "CoOwner", "color": "black"},
     {"userid": "18", "tag": "nn", "color": "yellow"},
     {"userid": "19", "tag": "nn", "color": "cyan"},
     {"userid": "20", "tag": "nn", "color": "purple"},
